@@ -18,7 +18,6 @@ const Projects = () => {
           enjoy blending creativity with technology to craft engaging digital
           experiences. Here are some examples:
         </p>
-        {/* card design */}
         <div className="row" id="ads">
           <Fade left>
             <div className="col-md-4">
